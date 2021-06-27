@@ -1,0 +1,33 @@
+# project-77
+<html>
+    <head>
+        <title>Project-77</title>
+    </head>
+    <body>
+        <center>
+        <h1>Project on console.</h1>
+<p>Write about visual studio and how to set it up</p>
+<p>Write about console screen.and why it is use.and how to open console screen and how to print anything on console</p>
+   <script>
+        var first_name="ranbir";
+    console.log(first_name);
+    var last_name="kapoor";
+    console.log(last_name);
+    var a="10";
+    console.log(a);
+    var b="5";
+    console.log(b);
+    var add=a+b;
+    console.log(add);
+
+    var multiply=a*b;
+    console.log(multiply);
+    var subtract=a-b;
+    console.log(subtract);
+    var divide=a/b;
+    console.log(divide);
+   </script>
+   </center>
+
+    </body>
+</html>
